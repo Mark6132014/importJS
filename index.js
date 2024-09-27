@@ -1,2 +1,2 @@
-import { demo } from "imported.js";
+import { demo } from "./imported.js";
 console.log(demo);
